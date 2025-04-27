@@ -10,7 +10,7 @@ Authors are invited to submit manuscripts of 8 pages (10 pages maximum for addit
 
 Accepted papers will be published in the conference proceedings by the IEEE Computer Society Press.  _Submission implies the willingness of at least one of the authors to register and present the paper_.
 
-Manuscripts must be submitted electronically in the <b>online submission system</b>.
+Manuscripts must be submitted electronically in the [<b>online submission system</b>](https://wi-lab.com/cyberchair/2025/icdm25/scripts/submit.php?subarea=S12&undisplay_detail=1&wh=/cyberchair/2025/icdm25/scripts/ws_submit.php).
 
 ----------
 All submissions will be triple-blind reviewed by the Program Committee on the basis of technical quality, relevance to scope of the workshop, originality, significance, and clarity. The following sections give further information for authors.
