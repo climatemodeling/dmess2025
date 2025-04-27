@@ -28,8 +28,8 @@ fa-icon: users
  <li> <b><a target="_blank" href="https://www.neonscience.org/person/venkata-shashank-konduri">Venakta Shashank “Shashi” Konduri</a></b> (National Ecological Observatory Network, Boulder, Colorado, USA)</li>
  <li> <b><a target="_blank" href="https://www.ornl.gov/staff-profile/jitendra-kumar">Jitendra Kumar</a></b> (Terrestrial Systems Modeling Group, Environmental Sciences Division, Oak Ridge National Laboratory, Oak Ridge, Tennessee, USA)</li>
  <li> <b><a target="_blank" href="https://www-users.cs.umn.edu/~kumar001/">Vipin Kumar</a></b> (Department of Computer Science and Engineering, University of Minnesota, Minneapolis, Minnesota, USA)</li>
- <li> <b><a target="_blank" href="https://www.linkedin.com/in/kuldeepkurte">Kuldeep Kurte</a></b> (Computational Sciences and Engineering Division, Oak Ridge National Laboratory, USA)</li>
- <li> <b><a target="_blank" href="https://langfordzl.github.io/">Zachary L. Langford</a></b> (Cyber &amp; Applied Data Analytics Division, Oak Ridge National Laboratory, USA)</li>
+ <li> <b><a target="_blank" href="https://langfordzl.github.io/">Zachary L. Langford</a></b> (Cyber &amp; Applied Data Analytics Division, Oak Ridge National Laboratory, Oak Ridge, Tennessee, USA)</li>
+ <li> <b><a target="_blank" href="https://www.ornl.gov/staff-profile/russell-limber">Russell Limber</a></b>b> (University of Tennessee, Knoxville, Tennessee, USA)</li>
  <li> <b><a target="_blank" href="https://rsc4earth.de/authors/mmahecha/">Miguel D. Mahecha</a></b> (Remote Sensing Center for Earth System Research, University of Leipzig, Leipzig, GERMANY)</li>
  <li> <b><a target="_blank" href="https://www.ornl.gov/staff-profile/jiafu-mao">Jiafu Mao</a></b> (Terrestrial Systems Modeling Group, Environmental Sciences Division, Oak Ridge National Laboratory, Oak Ridge, Tennessee, USA)</li>
  <li> <b><a target="_blank" href="https://sites.google.com/view/muraligm/">Murali Gopalakrishnan Meena</a></b> (Oak Ridge Leadership Computing Facility,Oak Ridge National Laboratory, USA)</li>
