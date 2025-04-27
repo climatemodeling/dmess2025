@@ -21,7 +21,7 @@ fa-icon: users
  <li> <b><a target="_blank" href="https://www.uv.es/gcamps/">Gustau Camps-Valls</a></b> (Image Processing Laboratory, University of Valencia, Valencia, SPAIN)</li>
  <li> <b><a target="_blank" href="https://nocollier.github.io/">Nathan Collier</a></b> (Computational Earth Sciences Group, Computational Sciences &amp; Engineering Division, Oak Ridge National Laboratory, Oak Ridge, Tennessee, USA)</li>
  <li> <b><a target="_blank" href="http://www.civ.neu.edu/people/ganguly-auroop">Auroop R. Ganguly</a></b> (Department of Civil and Environmental Engineering, Northeastern University, Boston, Massachusetts, USA)</li>
- <li> <b><a target="_blank" href="https://www.geobabble.org/~hnw">William W. Hargrove</a></b> (Eastern Forest Environmental Threat Assessment Center, USDA Forest Service, Asheville, North Carolina, USA)</li>
+ <li> <b><a target="_blank" href="https://www.geobabble.org/~hnw">William W. Hargrove</a></b> (Retired, USDA Forest Service, Asheville, North Carolina, USA)</li>
  <li> <b><a target="_blank" href="https://www.ornl.gov/staff-profile/forrest-hoffman">Forrest M. Hoffman</a></b> (Computational Earth Sciences Group, Computational Sciences &amp; Engineering Division, Oak Ridge National Laboratory, Oak Ridge, Tennessee, USA)</li>
  <li> <b><a target="_blank" href="http://web.eecs.utk.edu/~huangj/">Jian Huang</a></b> (Department of Electrical Engineering and Computer Science, University of Tennessee, Knoxville, Tennessee USA)</li>
  <li> <b><a target="_blank" href="https://www.linkedin.com/in/soo-kyung-kim-a9758217/">Soo Kyung Kim</a></b> (PARC, a Xerox Company, Palo Alto, California, USA)</li>
