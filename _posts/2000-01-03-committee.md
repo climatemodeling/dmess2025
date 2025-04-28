@@ -23,7 +23,7 @@ fa-icon: users
  <li> <b><a target="_blank" href="http://www.civ.neu.edu/people/ganguly-auroop">Auroop R. Ganguly</a></b> (Department of Civil and Environmental Engineering, Northeastern University, Boston, Massachusetts, USA)</li>
  <li> <b><a target="_blank" href="https://www.geobabble.org/~hnw">William W. Hargrove</a></b> (Retired, USDA Forest Service, Asheville, North Carolina, USA)</li>
  <li> <b><a target="_blank" href="https://www.ornl.gov/staff-profile/forrest-hoffman">Forrest M. Hoffman</a></b> (Integrated Computational Earth Sciences Group, Computational Sciences &amp; Engineering Division, Oak Ridge National Laboratory, Oak Ridge, Tennessee, USA)</li>
- <li> <b><a target="_blank" href="http://web.eecs.utk.edu/~huangj/">Jian Huang</a></b> (Department of Electrical Engineering and Computer Science, University of Tennessee, Knoxville, Tennessee USA)</li>
+ <li> <b><a target="_blank" href="http://web.eecs.utk.edu/~huangj/">Jian Huang</a></b> (Department of Electrical Engineering and Computer Science, University of Tennessee, Knoxville, Tennessee, USA)</li>
  <li> <b><a target="_blank" href="https://www.linkedin.com/in/soo-kyung-kim-a9758217/">Soo Kyung Kim</a></b> (PARC, a Xerox Company, Palo Alto, California, USA)</li>
  <li> <b><a target="_blank" href="https://www.neonscience.org/person/venkata-shashank-konduri">Venakta Shashank “Shashi” Konduri</a></b> (National Ecological Observatory Network, Boulder, Colorado, USA)</li>
  <li> <b><a target="_blank" href="https://www.ornl.gov/staff-profile/jitendra-kumar">Jitendra Kumar</a></b> (Terrestrial Systems Modeling Group, Environmental Sciences Division, Oak Ridge National Laboratory, Oak Ridge, Tennessee, USA)</li>
