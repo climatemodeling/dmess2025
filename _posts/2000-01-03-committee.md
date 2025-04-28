@@ -19,20 +19,21 @@ fa-icon: users
  <li> <b><a target="_blank" href="https://www.iitgn.ac.in/faculty/civil/udit.htm">Udit Bhatia</a></b> (IIT Gandhinagar, Gujarat, INDIA)</li>
  <li> <b><a target="_blank" href="https://www.linkedin.com/in/bjornbrooks/">Bj&oslash;rn-Gustaf J. Brooks</a></b> (Carbon Solutions, Saint Paul, Minnesota, USA)</li>
  <li> <b><a target="_blank" href="https://www.uv.es/gcamps/">Gustau Camps-Valls</a></b> (Image Processing Laboratory, University of Valencia, Valencia, SPAIN)</li>
- <li> <b><a target="_blank" href="https://nocollier.github.io/">Nathan Collier</a></b> (Computational Earth Sciences Group, Computational Sciences &amp; Engineering Division, Oak Ridge National Laboratory, Oak Ridge, Tennessee, USA)</li>
+ <li> <b><a target="_blank" href="https://nocollier.github.io/">Nathan Collier</a></b> (Integrated Computational Earth Sciences Group, Computational Sciences &amp; Engineering Division, Oak Ridge National Laboratory, Oak Ridge, Tennessee, USA)</li>
  <li> <b><a target="_blank" href="http://www.civ.neu.edu/people/ganguly-auroop">Auroop R. Ganguly</a></b> (Department of Civil and Environmental Engineering, Northeastern University, Boston, Massachusetts, USA)</li>
  <li> <b><a target="_blank" href="https://www.geobabble.org/~hnw">William W. Hargrove</a></b> (Retired, USDA Forest Service, Asheville, North Carolina, USA)</li>
- <li> <b><a target="_blank" href="https://www.ornl.gov/staff-profile/forrest-hoffman">Forrest M. Hoffman</a></b> (Computational Earth Sciences Group, Computational Sciences &amp; Engineering Division, Oak Ridge National Laboratory, Oak Ridge, Tennessee, USA)</li>
+ <li> <b><a target="_blank" href="https://www.ornl.gov/staff-profile/forrest-hoffman">Forrest M. Hoffman</a></b> (Integrated Computational Earth Sciences Group, Computational Sciences &amp; Engineering Division, Oak Ridge National Laboratory, Oak Ridge, Tennessee, USA)</li>
  <li> <b><a target="_blank" href="http://web.eecs.utk.edu/~huangj/">Jian Huang</a></b> (Department of Electrical Engineering and Computer Science, University of Tennessee, Knoxville, Tennessee USA)</li>
  <li> <b><a target="_blank" href="https://www.linkedin.com/in/soo-kyung-kim-a9758217/">Soo Kyung Kim</a></b> (PARC, a Xerox Company, Palo Alto, California, USA)</li>
  <li> <b><a target="_blank" href="https://www.neonscience.org/person/venkata-shashank-konduri">Venakta Shashank “Shashi” Konduri</a></b> (National Ecological Observatory Network, Boulder, Colorado, USA)</li>
  <li> <b><a target="_blank" href="https://www.ornl.gov/staff-profile/jitendra-kumar">Jitendra Kumar</a></b> (Terrestrial Systems Modeling Group, Environmental Sciences Division, Oak Ridge National Laboratory, Oak Ridge, Tennessee, USA)</li>
  <li> <b><a target="_blank" href="https://www-users.cs.umn.edu/~kumar001/">Vipin Kumar</a></b> (Department of Computer Science and Engineering, University of Minnesota, Minneapolis, Minnesota, USA)</li>
- <li> <b><a target="_blank" href="https://langfordzl.github.io/">Zachary L. Langford</a></b> (Cyber &amp; Applied Data Analytics Division, Oak Ridge National Laboratory, Oak Ridge, Tennessee, USA)</li>
+ <li> <b><a target="_blank" href="https://langfordzl.github.io/">Zachary L. Langford</a></b> (Databricks Inc., San Francisco, California, USA)</li>
  <li> <b><a target="_blank" href="https://www.ornl.gov/staff-profile/russell-limber">Russell Limber</a></b> (Bredesen Center, University of Tennessee, Knoxville, Tennessee, USA)</li>
  <li> <b><a target="_blank" href="https://rsc4earth.de/authors/mmahecha/">Miguel D. Mahecha</a></b> (Remote Sensing Center for Earth System Research, University of Leipzig, Leipzig, GERMANY)</li>
  <li> <b><a target="_blank" href="https://www.ornl.gov/staff-profile/jiafu-mao">Jiafu Mao</a></b> (Terrestrial Systems Modeling Group, Environmental Sciences Division, Oak Ridge National Laboratory, Oak Ridge, Tennessee, USA)</li>
- <li> <b><a target="_blank" href="https://sites.google.com/view/muraligm/">Murali Gopalakrishnan Meena</a></b> (Oak Ridge Leadership Computing Facility,Oak Ridge National Laboratory, Oak Ridge, Tennessee, USA)</li>
+ <li> <b><a target="_blank" href="https://www.ornl.gov/staff-profile/elias-massoud">Elias Massoud</a></b> (Integrated Computational Earth Sciences Group, Computational Sciences &amp; Engineering Division, Oak Ridge National Laboratory, Oak Ridge, Tennessee, USA)</li>
+ <li> <b><a target="_blank" href="https://sites.google.com/view/muraligm/">Murali Gopalakrishnan Meena</a></b> (Oak Ridge Leadership Computing Facility, Oak Ridge National Laboratory, Oak Ridge, Tennessee, USA)</li>
  <li> <b><a target="_blank" href="https://www.anl.gov/profile/richard-tran-mills">Richard T. Mills</a></b> (Laboratory for Advanced Numerical Simulations, Mathematics and Computer Science Division, Argonne National Laboratory, Argonne, Illinois, USA)</li>
  <li> <b><a target="_blank" href="https://www.srs.fs.usda.gov/staff/429">Steven P. Norman</a></b> (Eastern Forest Environmental Threat Assessment Center, USDA Forest Service, Asheville, North Carolina, USA)</li>
  <li> <b><a target="_blank" href="https://www.ornl.gov/staff-profile/bharat-sharma">Bharat Sharma</a></b> (Ecosystem Processes Group, Environmental Sciences Division, Oak Ridge National Laboratory, Oak Ridge, Tennessee, USA)</li>
@@ -40,6 +41,6 @@ fa-icon: users
  <li> <b><a target="_blank" href="https://www.linkedin.com/in/vamsisripathi/">Vamsi Sripathi</a></b> (Intel Corporation, Hillsboro, Oregon, USA)</li>
  <li> <b><a target="_blank" href="http://www-users.cs.umn.edu/~ksteinha/">Karsten Steinhaeuser</a></b> (Department of Computer Science and Engineering, University of Minnesota, Minneapolis, Minnesota, USA)</li>
  <li> <b><a target="_blank" href="https://thomasvandal.com/">TJ Vandal</a></b> (NASA Ames Research Center, Moffett Field, California, USA)</li>
- <li> <b><a target="_blank" href="https://www.ornl.gov/staff-profile/min-xu">Min Xu</a></b> (Computational Earth Sciences Group, Computational Sciences &amp; Engineering Division, Oak Ridge National Laboratory, Oak Ridge, Tennessee, USA)</li>
+ <li> <b><a target="_blank" href="https://www.ornl.gov/staff-profile/min-xu">Min Xu</a></b> (Integrated Computational Earth Sciences Group, Computational Sciences &amp; Engineering Division, Oak Ridge National Laboratory, Oak Ridge, Tennessee, USA)</li>
  <li> <b><a target="_blank" href="https://www.linkedin.com/in/cheng-en-yang-38665698/">Cheng-En Yang</a></b> (Department of Civil and Environmental Engineering, University of Tennessee, Knoxville, Tennessee, USA)</li>
 </ul>
