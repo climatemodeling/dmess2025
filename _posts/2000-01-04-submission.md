@@ -6,7 +6,7 @@ fa-icon: edit
 ---
 
 
-Authors are invited to submit manuscripts of 8 pages (10 pages maximum for additional fee) reporting unpublished, mature, and original research and recent developments/theoretical considerations in applications of data mining to Earth sciences by June 6, 2025. Paper submissions should be in the [IEEE 2-column format](http://www.ieee.org/conferences_events/conferences/publishing/templates.html), including the bibliography and any possible appendices. 
+Authors are invited to submit manuscripts of 8 pages (10 pages maximum for additional fee) reporting unpublished, mature, and original research and recent developments/theoretical considerations in applications of data mining to Earth sciences by the paper submission deadline listed below. Paper submissions should be in the [IEEE 2-column format](http://www.ieee.org/conferences_events/conferences/publishing/templates.html), including the bibliography and any possible appendices. 
 
 Accepted papers will be published in the conference proceedings by the IEEE Computer Society Press.  _Submission implies the willingness of at least one of the authors to register and present the paper either in person or virtually_.
 
