@@ -37,10 +37,10 @@ fa-icon: users
  <li> <b><a target="_blank" href="https://www.anl.gov/profile/richard-tran-mills">Richard T. Mills</a></b> (Laboratory for Advanced Numerical Simulations, Mathematics and Computer Science Division, Argonne National Laboratory, Argonne, Illinois, USA)</li>
  <li> <b><a target="_blank" href="https://www.srs.fs.usda.gov/staff/429">Steven P. Norman</a></b> (Eastern Forest Environmental Threat Assessment Center, USDA Forest Service, Asheville, North Carolina, USA)</li>
  <li> <b><a target="_blank" href="https://www.ornl.gov/staff-profile/bharat-sharma">Bharat Sharma</a></b> (Ecosystem Processes Group, Environmental Sciences Division, Oak Ridge National Laboratory, Oak Ridge, Tennessee, USA)</li>
- <li> <b><a target="_blank" href="http://sarats.com/">Sarat Sreepathi</a></b> (Computer Science &amp; Mathematics Division, Oak Ridge National Laboratory, Oak Ridge, Tennessee, USA)</li>
+ <li> <b><a target="_blank" href="http://sarats.com/">Sarat Sreepathi</a></b> (Integrated Computational Earth Sciences Group, Computational Sciences &amp; Engineering Division, Oak Ridge National Laboratory, Oak Ridge, Tennessee, USA)</li>
  <li> <b><a target="_blank" href="https://www.linkedin.com/in/vamsisripathi/">Vamsi Sripathi</a></b> (Intel Corporation, Hillsboro, Oregon, USA)</li>
- <li> <b><a target="_blank" href="http://www-users.cs.umn.edu/~ksteinha/">Karsten Steinhaeuser</a></b> (Department of Computer Science and Engineering, University of Minnesota, Minneapolis, Minnesota, USA)</li>
- <li> <b><a target="_blank" href="https://thomasvandal.com/">TJ Vandal</a></b> (NASA Ames Research Center, Moffett Field, California, USA)</li>
+ <li> <b><a target="_blank" href="https://www.linkedin.com/in/karsten-steinhaeuser-phd-b915289/">Karsten Steinhaeuser</a></b> (AeroVironment, Minneapolis, Minnesota, USA)</li>
+ <li> <b><a target="_blank" href="https://tjvandal.github.io/">TJ Vandal</a></b> (Zeus AI, Cambridge, Massachusetts, USA)</li>
  <li> <b><a target="_blank" href="https://www.ornl.gov/staff-profile/min-xu">Min Xu</a></b> (Integrated Computational Earth Sciences Group, Computational Sciences &amp; Engineering Division, Oak Ridge National Laboratory, Oak Ridge, Tennessee, USA)</li>
  <li> <b><a target="_blank" href="https://www.linkedin.com/in/cheng-en-yang-38665698/">Cheng-En Yang</a></b> (Department of Civil and Environmental Engineering, University of Tennessee, Knoxville, Tennessee, USA)</li>
 </ul>
